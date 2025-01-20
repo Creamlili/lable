@@ -1,0 +1,75 @@
+    // System.out.print("Entrer your name : " );
+        //   String name = scanner.nextLine(); //nextlin ใช้สำหรับข้อความ
+        // System.out.print("Hello " + name ) ; 
+        
+        // อายุ 
+        // System.out.print( "Entre your Age : ");
+        // int age = scanner.nextInt(); //ใช้จำนวนเลขเต็ม
+        // System.out.print("you are " + age + " years old"); 
+        
+        // // เก็บส่วนสูง
+        // System.out.print( "Entre your Height  : ");
+        // double height = scanner.nextDouble(); //nexdoube เลขทศนิยม
+        
+        // System.out.print("you are " + height/100 + " cm " );
+        //การทำงานแบบloop
+       
+        // System.out.print("Entr you password : ");
+        // int password = scanner.nextInt ();
+        // int counter =1;
+        // while (password != 12345 ){  
+        //     System.out.println("pussword your is incorrect : ");
+        //     System.out.print( "Entre your password : ");
+        //     password = scanner.nextInt();
+        //     if(counter < 3){
+        //         counter++;
+        //     }
+        //     else{
+        //         System.out.println("Password you is incorrect 3 Round Exit program ");
+        //         System.exit(0);
+        //     }
+
+
+        // //loopจำนวนที่แนน่นอน
+        // int loop = 0;
+        // for(int counter = 1; loop < counter ; counter++){
+            
+        //      System.out.println("loop At \n +" + counter); 
+
+        //การทำงงาน
+        System.ont.println("Enter you number 1-7 for day");
+        switch(day){
+            case 1:
+                Statement.out.println("Monday");
+                break;
+                 case 2:
+                 Statement.out.println("Tuesday");
+                 break;
+                case 3:
+                Statement.out.println("wdesday");
+                break;
+                case 4:
+                Statement.out.println("Thursday");
+                break;
+                case 5:
+                Statement.out.println("Friday");
+                break;
+                case 6:
+                Statement.out.println("saturday");
+                break;
+                case 7:
+                Statement.out.println("sunday");
+                break;
+
+                
+        }
+            
+            
+            
+        }
+        
+        
+        
+            
+        }
+        
